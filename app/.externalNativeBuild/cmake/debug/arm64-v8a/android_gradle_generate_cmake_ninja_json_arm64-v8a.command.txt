@@ -1,0 +1,15 @@
+Executable : /home/azumeow/Android/Sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app
+-B/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.externalNativeBuild/cmake/debug/arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-22
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/build/intermediates/cmake/debug/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/home/azumeow/Android/Sdk/ndk/16.1.4479499
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions -fopenmp
+-DCMAKE_TOOLCHAIN_FILE=/home/azumeow/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/azumeow/Android/Sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+
