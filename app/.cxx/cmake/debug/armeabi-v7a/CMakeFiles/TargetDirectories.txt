@@ -1,6 +1,0 @@
-/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
-/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
-/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/ORBSLAM2.dir
-/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/DBoW2.dir
-/home/azumeow/AndroidStudioProjects/ORB-SLAM2-based-AR-on-Android-master/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/g2o.dir
