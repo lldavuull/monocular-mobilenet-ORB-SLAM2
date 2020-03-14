@@ -1,0 +1,6 @@
+/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/native-lib.dir
+/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/ORBSLAM2.dir
+/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/DBoW2.dir
+/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/g2o.dir

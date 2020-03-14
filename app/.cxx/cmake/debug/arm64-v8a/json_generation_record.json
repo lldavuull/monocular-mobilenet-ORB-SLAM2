@@ -1,0 +1,434 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: arm64-v8a",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/home/azumeow/Android/Sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json due to:",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/build_command.txt, will remove stale json folder",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\u0027",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /home/azumeow/Android/Sdk/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions -fopenmp\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003d/home/azumeow/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/home/azumeow/Android/Sdk/ndk/16.1.4479499\n-DANDROID_PLATFORM\u003dandroid-24\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003d/home/azumeow/Android/Sdk/ndk/16.1.4479499\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/build/intermediates/cmake/debug/obj/arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003d/home/azumeow/Android/Sdk/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d24\n-B/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\n  \"buildDirectory\": \"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11 -frtti -fexceptions -fopenmp\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/home/azumeow/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003d/home/azumeow/Android/Sdk/ndk/16.1.4479499\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/home/azumeow/Android/Sdk/ndk/16.1.4479499\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/build/intermediates/cmake/debug/obj/arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/home/azumeow/Android/Sdk/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\"\n  ]\n}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning at /home/azumeow/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake:63 (message):\\n  Using custom NDK path (ANDROID_NDK is set):\\n  /home/azumeow/Android/Sdk/ndk/16.1.4479499\\nCall Stack (most recent call first):\\n  /home/azumeow/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\\n  CMakeLists.txt\\n\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning at /home/azumeow/Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake:63 (message):\n  Using custom NDK path (ANDROID_NDK is set):\n  /home/azumeow/Android/Sdk/ndk/16.1.4479499\nCall Stack (most recent call first):\n  /home/azumeow/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake:94 (include)\n  CMakeLists.txt\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -- works",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /home/azumeow/Android/Sdk/ndk/16.1.4479499/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ -- works",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake\",\"../../../Android/Sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\".cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/home/azumeow/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\"type\":\"reply\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\",\"name\":\"Project\",\"sourceDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\"targets\":[{\"artifacts\":[\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/libg2o.a\"],\"buildDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-isystem /home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__\u003d24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen/src\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/D:/software/opencv3.0forAndroid/OpenCV-android-sdk/sdk/native/jni/include\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/os_specific.c\"]},{\"compileFlags\":\"-isystem /home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__\u003d24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -fopenmp -std\u003dgnu++11 -O2 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen/src\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/D:/software/opencv3.0forAndroid/OpenCV-android-sdk/sdk/native/jni/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/types_sba.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/hyper_graph_action.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/hyper_graph.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/matrix_structure.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/batch_stats.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/parameter.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/cache.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimizable_graph.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/solver.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/estimate_propagator.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/factory.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/sparse_optimizer.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/hyper_dijkstra.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/parameter_container.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/jacobian_workspace.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/robust_kernel.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/robust_kernel_factory.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/robust_kernel_impl.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/timeutil.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/string_tools.cpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/property.cpp\"]},{\"isGenerated\":false,\"sources\":[\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/types_sba.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/types_seven_dof_expmap.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/se3quat.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/se3_ops.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/types/se3_ops.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_edge.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_binary_edge.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_binary_edge.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/hyper_graph_action.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_multi_edge.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_multi_edge.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/hyper_graph.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_unary_edge.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/linear_solver.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_unary_edge.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_vertex.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/marginal_covariance_cholesky.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/base_vertex.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/matrix_structure.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/batch_stats.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/openmp_mutex.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/block_solver.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/block_solver.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/parameter.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/cache.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimizable_graph.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/solver.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/creators.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_factory.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/estimate_propagator.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_property.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/factory.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/sparse_block_matrix.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/sparse_block_matrix.hpp\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/sparse_optimizer.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/hyper_dijkstra.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/parameter_container.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_with_hessian.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/optimization_algorithm_levenberg.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/jacobian_workspace.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/robust_kernel.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/robust_kernel_factory.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/core/robust_kernel_impl.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/string_tools.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/color_macros.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/macros.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/misc.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/timeutil.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/os_specific.h\",\"src/main/cpp/ORB/Thirdparty/g2o/g2o/stuff/property.h\"]}],\"fullName\":\"libg2o.a\",\"linkerLanguage\":\"CXX\",\"name\":\"g2o\",\"sourceDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\"sysroot\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/libDBoW2.a\"],\"buildDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-isystem /home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__\u003d24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -fopenmp -std\u003dgnu++11 -O2 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen/src\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/D:/software/opencv3.0forAndroid/OpenCV-android-sdk/sdk/native/jni/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/BowVector.cpp\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/FORB.cpp\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/FeatureVector.cpp\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/ScoringObject.cpp\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DUtils/Random.cpp\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DUtils/Timestamp.cpp\"]},{\"isGenerated\":false,\"sources\":[\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/BowVector.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/FORB.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/FClass.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/FeatureVector.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/ScoringObject.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DBoW2/TemplatedVocabulary.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DUtils/Random.h\",\"src/main/cpp/ORB/Thirdparty/DBoW2/DUtils/Timestamp.h\"]}],\"fullName\":\"libDBoW2.a\",\"linkerLanguage\":\"CXX\",\"name\":\"DBoW2\",\"sourceDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\"sysroot\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/libORBSLAM2.a\"],\"buildDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-isystem /home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__\u003d24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -fopenmp -std\u003dgnu++11 -O2 -DNDEBUG  -fPIC  \",\"includePath\":[{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen/src\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/D:/software/opencv3.0forAndroid/OpenCV-android-sdk/sdk/native/jni/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/ORB/src/System.cc\",\"src/main/cpp/ORB/src/Tracking.cc\",\"src/main/cpp/ORB/src/LocalMapping.cc\",\"src/main/cpp/ORB/src/LoopClosing.cc\",\"src/main/cpp/ORB/src/ORBextractor.cc\",\"src/main/cpp/ORB/src/ORBmatcher.cc\",\"src/main/cpp/ORB/src/FrameDrawer.cc\",\"src/main/cpp/ORB/src/Converter.cc\",\"src/main/cpp/ORB/src/MapPoint.cc\",\"src/main/cpp/ORB/src/KeyFrame.cc\",\"src/main/cpp/ORB/src/Map.cc\",\"src/main/cpp/ORB/src/Optimizer.cc\",\"src/main/cpp/ORB/src/PnPsolver.cc\",\"src/main/cpp/ORB/src/Frame.cc\",\"src/main/cpp/ORB/src/KeyFrameDatabase.cc\",\"src/main/cpp/ORB/src/Sim3Solver.cc\",\"src/main/cpp/ORB/src/Initializer.cc\"]}],\"fullName\":\"libORBSLAM2.a\",\"linkerLanguage\":\"CXX\",\"name\":\"ORBSLAM2\",\"sourceDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\"sysroot\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so\"],\"buildDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-isystem /home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__\u003d24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -fopenmp -std\u003dgnu++11 -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"native_lib_EXPORTS\"],\"includePath\":[{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/ORB\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/Eigen/src\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/src/main/cpp/include\"},{\"path\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/D:/software/opencv3.0forAndroid/OpenCV-android-sdk/sdk/native/jni/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include\"},{\"isSystem\":true,\"path\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"src/main/cpp/native-lib.cpp\",\"src/main/cpp/Plane.cpp\",\"src/main/cpp/Frame.cpp\",\"src/main/cpp/Marker.cpp\",\"src/main/cpp/Process.cpp\",\"src/main/cpp/Camera.cpp\"]}],\"fullName\":\"libnative-lib.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a --sysroot /home/azumeow/Android/Sdk/ndk/16.1.4479499/platforms/android-24/arch-arm64 -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Wl,-z,noexecstack -Qunused-arguments -Wl,-z,relro -Wl,-z,now\",\"linkLibraries\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/platforms/android-24/arch-arm64/usr/lib/liblog.so libORBSLAM2.a ../../../../src/main/jniLibs/arm64-v8a/libopencv_java3.so libDBoW2.a libg2o.a -latomic -lm \\\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libgnustl_static.a\\\"\",\"linkerLanguage\":\"CXX\",\"name\":\"native-lib\",\"sourceDirectory\":\"/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app\",\"sysroot\":\"/home/azumeow/Android/Sdk/ndk/16.1.4479499/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/home/azumeow/AndroidStudioProjects/monocular-mobilenet-ORB-SLAM2/app/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]
